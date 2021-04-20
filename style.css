@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+}
+
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Zen Dots', cursive;
+}
+
+p {
+    font-size: 25px;
+    color: purple;
+}
+
+h2 {
+    font-size: 20px;
+    color: #1A237E;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position: absolute
+}
+
+.link {
+    float:left;
+    color: darkmagenta;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 21px;
+}
+
+.link:hover{
+    background-color: aqua;
+    font-size: 23px;
+    font-family: fantasy;
+}
