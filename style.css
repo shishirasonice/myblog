@@ -1,16 +1,23 @@
 body {
     text-align: center;
+    background: linear-gradient(to bottom, #ff99ff 0%, #66ccff 104%);
 }
 
 }
 
 img {
     width: 300px;
+    height: 300px;
+}
+
+#mic {
+    height:300px;
+    
 }
 
 h1 {
     font-size: 40px;
-    font-family: 'Zen Dots', cursive;
+    color: crimson;
 }
 
 p {
@@ -20,13 +27,13 @@ p {
 
 h2 {
     font-size: 20px;
-    color: #1A237E;
+    color: blue;
 }
 
 .line {
     height: 6px;
     background-color: black;
-    width: 70px;
+    width: 50px;
     margin: 8px auto;
 
 
@@ -40,6 +47,7 @@ h2 {
 
 img {
     width: 700px;
+    border: 15px;
 }
 .menu {
     list-style: none;
